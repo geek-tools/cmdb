@@ -1,0 +1,3 @@
+{"_id":"multifunction_printer","name":"Multifunction Printer","icon":null,"parent":"network_printer"}
+{"_id":"network_printer","name":"Network Printer","icon":null,"parent":"printer"}
+{"_id":"printer","name":"Printer","icon":null,"parent":null}
